@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "旋转数组的最小数字", "旋转数组的最小数字.vcxproj", "{2669E109-24D6-4A67-9A94-81EA785E380D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Debug|x64.ActiveCfg = Debug|x64
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Debug|x64.Build.0 = Debug|x64
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Debug|x86.ActiveCfg = Debug|Win32
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Debug|x86.Build.0 = Debug|Win32
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Release|x64.ActiveCfg = Release|x64
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Release|x64.Build.0 = Release|x64
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Release|x86.ActiveCfg = Release|Win32
+		{2669E109-24D6-4A67-9A94-81EA785E380D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B081434-382D-4F0B-BF48-C88A9C84E3CC}
+	EndGlobalSection
+EndGlobal
