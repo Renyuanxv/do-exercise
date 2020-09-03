@@ -1,0 +1,7 @@
+﻿  preinoBtree.cpp
+D:\代码\从前序与中序遍历序列构造二叉树\preinoBtree.cpp(12,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\代码\从前序与中序遍历序列构造二叉树\preinoBtree.cpp(12,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\代码\从前序与中序遍历序列构造二叉树\preinoBtree.cpp(12,122): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\代码\从前序与中序遍历序列构造二叉树\preinoBtree.cpp(24,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\代码\从前序与中序遍历序列构造二叉树\preinoBtree.cpp(24,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\代码\从前序与中序遍历序列构造二叉树\preinoBtree.cpp(24,70): error C2334: “{”的前面有意外标记；跳过明显的函数体
