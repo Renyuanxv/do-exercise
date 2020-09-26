@@ -1,0 +1,6 @@
+﻿  question2.cpp
+D:\代码\正确的答案个数\question2.cpp(21,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\正确的答案个数\question2.cpp(22,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\正确的答案个数\question2.cpp(28,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码\正确的答案个数\question2.cpp(43,24): warning C4018: “<”: 有符号/无符号不匹配
+  正确的答案个数.vcxproj -> D:\代码\正确的答案个数\Debug\正确的答案个数.exe
