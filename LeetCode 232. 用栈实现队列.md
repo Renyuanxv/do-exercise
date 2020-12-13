@@ -54,4 +54,5 @@ public:
         return In.empty()&&Out.empty();
     }
 };
+
 ```
